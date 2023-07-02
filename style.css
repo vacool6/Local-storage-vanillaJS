@@ -1,0 +1,16 @@
+body {
+  font-family: "Trebuchet MS";
+}
+
+ul {
+  list-style-type: square;
+  width: 10rem;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  border: 2px solid gray;
+  margin: 4px 0;
+}
