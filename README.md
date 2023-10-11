@@ -1,5 +1,5 @@
 
-#  Working with LS
+#  Working with Localstorage 
 
 In this project we add & remove items from local storage.
 
