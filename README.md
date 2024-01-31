@@ -3,6 +3,9 @@
 
 In this project we add & remove items from local storage.
 
+## Branches
+Current branch `with-ls`. We use local storage to stode data.
+
 ## Getting started
 
 1 ) git clone to clone the project.
